@@ -14,5 +14,5 @@ But... if you missed what have changed, or everything has changed, you can simpl
 # How can I help
 Pull request, translations, code improvement; anything. Please!
 
-# Why I have done that?
+# Why have I done that?
 I really don't know.
