@@ -1,0 +1,22 @@
+{
+  "name": "php-rfc-changes",
+  "version": "1.0.0",
+  "description": "PHP Checker for RFC changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "php",
+    "rfc",
+    "changes",
+    "checker",
+    "verifier"
+  ],
+  "author": "William Okano <williamokano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
